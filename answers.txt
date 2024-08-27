@@ -15,5 +15,7 @@
 
 
 
+# ------------------------------ Exercise 1.4.1 -------------------------------------
 
-
+1. Using git commit -am "Add baz" ---> Automatically stages any tracked, modified files (files that are already being tracked by Git). It does not stage new, untracked files (i.e., files that you haven't added with git add before).
+    In this case it does nothing.
