@@ -1,0 +1,19 @@
+# ------------------------------ Exercise 1.1.1 -------------------------------------
+
+1. After running git help in command line the first command is ----> git clone
+
+2. Command for nevigate the output of git help command interactively ----> git help | less
+
+3. To check the global configuration ---> cat git ~/.gitconfig
+
+
+# ------------------------------ Exercise 1.2.1 -------------------------------------
+
+1. Name of the hidden directory is ---> .git
+
+2. To display the content of the configuration file ---> cat ./.git/config
+
+
+
+
+
